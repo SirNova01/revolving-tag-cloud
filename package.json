@@ -1,0 +1,23 @@
+{
+  "name": "revolving-tag-cloud",
+  "version": "1.0.0",
+  "description": "A react revolving tag cloud to add to your projects :)",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel src --out-dir dist"
+  },
+  "keywords": [],
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/preset-react": "^7.12.1",
+    "babel-preset-env": "^1.7.0"
+  },
+  "author": "Taye Aduewa Micheal",
+  "license": "MIT"
+}
